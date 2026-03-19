@@ -9,7 +9,7 @@
 ### About Me
 
 🌸 Computer Science student passionate about building applications  
-🌸 Currently developing **Furrr** – petcare-ai app
+🌸 Currently developing **Furrr** – petcare-ai app<br>
 🌸 Exploring **Python, Flutter, Web Development**
 
 </td>
