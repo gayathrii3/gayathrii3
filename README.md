@@ -9,7 +9,7 @@
 ### About Me
 
 🌸 Computer Science student passionate about building applications  
-🌸 Currently developing **SafeOrbit** – safety platform  
+🌸 Currently developing **Furrr** – petcare-ai app
 🌸 Exploring **Python, Flutter, Web Development**
 
 </td>
