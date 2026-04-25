@@ -34,3 +34,9 @@
 <img src="https://img.shields.io/badge/Figma-E6CCFF?style=for-the-badge&logo=figma&logoColor=black"/>
 <img src="https://img.shields.io/badge/VS%20Code-E6CCFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
 </p>
+
+<p align="center">
+<a href="https://gayathrii3.github.io/My-portfolio/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FFB6C1?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
+</p>
