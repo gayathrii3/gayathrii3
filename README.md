@@ -1,41 +1,49 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=87CEFA&center=true&vCenter=true&width=700&lines=Hi+I'm+Gayathri;Python+Developer;Building+Cross+Platform+Applications;Python+%7C+Flutter+%7C+Web+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=1200&height=60&lines=hi+!+I+am+Gayathri;I+Build+Stuff+With+Python;Building+Cross-Platform+Applications;Python+%7C+Flutter+%7C+Backend+Systems+%7C+REST+APIs"/>
 </p>
-
-<table align="center">
-<tr>
-<td>
-
-### About Me
-
-❄️ Computer Science student passionate about building applications  
-❄️ Currently developing **Furrr** – petcare-ai app<br>
-❄️ Exploring **Python, Flutter, Web Development**
-
-</td>
-
-<td>
-<img src="https://media.giphy.com/media/l0MYup17iDrYyQ9zy/giphy.gif" width="200">
-</td>
-</tr>
-</table>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-B0E0E6?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flutter-B0E0E6?style=for-the-badge&logo=flutter&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML-B0E0E6?style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS-B0E0E6?style=for-the-badge&logo=css3&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-B0E0E6?style=for-the-badge&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-B0E0E6?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-B0E0E6?style=for-the-badge&logo=mysql&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-B0E0E6?style=for-the-badge&logo=figma&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-B0E0E6?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+<img align="left" src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="320" alt="Coding Girl"/>
+<hr>
 
+```
+About Me
+-------------------------
+
+📚 Pursuing a Bachelor’s degree in Computer Science
+💻 Skilled in Python and Full Stack Development
+🔭 Working on building scalable backend systems, REST APIs
+🌱 Improving Data structures & Algorithms
+🌟 Main languages: Python, C
+🚩 Exploring Backend technologies
+
+
+```
+<hr>
+<p align="center">
+📊 github_stats.exe
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gayathrii3&theme=radical&hide_border=true" />
+</p>
+
+<!---->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=28&duration=1&pause=1000000&color=FF69B4&center=true&vCenter=true&width=300&height=40&lines=My+Tech+Stack" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,flask,flutter,html,css,git,github,mysql,figma,vscode,postman&theme=light" />
+</p>
+
+<hr>
+<!--->
 
 <p align="center">
 <a href="https://gayathrii3.github.io/My-portfolio/">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-87CEFA?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/%20Visit%20My%20Portfolio-87CEFA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF69B4" width="350"/>
 </a>
 </p>
