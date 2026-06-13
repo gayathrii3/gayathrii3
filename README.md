@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=1200&height=60&lines=hi+!+I+am+Gayathri;I+Build+Stuff+With+Python;Building+Cross-Platform+Applications;Python+%7C+Flutter+%7C+Backend+Systems+%7C+REST+APIs"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=1200&height=60&lines=hi+!+I+am+Gayathri;I+Build+Stuff+With+Python;Python+%7C+Flutter+%7C+Backend+Systems+%7C+REST+APIs"/>
 </p>
 
 <p align="center">
 
-<img align="left" src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="320" alt="Coding Girl"/>
+<img align="left" src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="270" alt="Coding Girl"/>
 <hr>
 
 ```
@@ -36,7 +36,7 @@ About Me
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,flask,flutter,html,css,git,github,mysql,figma,vscode,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flutter,html,css,git,github,mysql,figma,vscode,postman&theme=light" />
 </p>
 
 <hr>
@@ -44,6 +44,6 @@ About Me
 
 <p align="center">
 <a href="https://gayathrii3.github.io/My-portfolio/">
-<img src="https://img.shields.io/badge/%20Visit%20My%20Portfolio-87CEFA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF69B4" width="350"/>
+<img src="https://img.shields.io/badge/%20Visit%20My%20Portfolio-87CEFA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF69B4" width="310"/>
 </a>
 </p>
